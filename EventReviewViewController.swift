@@ -1,10 +1,7 @@
-//
-//  EventReviewViewController.swift
-//  Extract
-//
-//  Created by Julian Dorsey on 12/19/18.
-//  Copyright © 2018 Srihari Mohan. All rights reserved.
-//
+/*
+EventReviewViewController.swift
+EatUP
+*/
 
 import UIKit
 

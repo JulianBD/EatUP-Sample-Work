@@ -1,3 +1,8 @@
+/*
+EventDetailViewController.swift
+EatUP
+*/
+
 import UIKit
 
 class EventDetailViewController: UIViewController {

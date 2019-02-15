@@ -1,10 +1,7 @@
-//
-//  EventCreationViewController.swift
-//  Extract
-//
-//  Created by Julian Dorsey on 12/17/18.
-//  Copyright © 2018 Srihari Mohan. All rights reserved.
-//
+/*
+EventCreationViewController.swift
+EatUP
+*/
 
 import UIKit
 import FBSDKLoginKit

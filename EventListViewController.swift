@@ -1,3 +1,8 @@
+/*
+EventListViewController.swift
+EatUP
+*/
+
 import UIKit
 import AccountKit
 import FBSDKLoginKit
